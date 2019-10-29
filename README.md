@@ -1,1 +1,1 @@
-# uplift-modelling
+# Uplift Modelling
