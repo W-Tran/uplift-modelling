@@ -8,8 +8,8 @@ Compared to building a model to predict customers who are likely to visit the we
 
 **Notes/Future work**
 
-- I am still in the process of reviewing the literature in order to gain a better understanding of how these models train and make predictions, my understanding of these models is still relatively rudimentary
-- Non-clinical datasets are limited and are usually [heavily anonymized](http://ailab.criteo.com/criteo-uplift-prediction-dataset/) which makes experimenting with these models difficult
+- Continue reviewing the literature in order to gain a better understanding of the uplift model training and prediction process
+- Non-clinical datasets are limited and are usually [heavily anonymized](http://ailab.criteo.com/criteo-uplift-prediction-dataset/) which makes experimenting with these models difficult. Find more datasets to experiment with
 
 <p align="center"><img src="data/figures/cumulative_lift.png" width=750></p>
 <p align="center"><img src="data/figures/visit_rate_by_model.png" width=750></p>
