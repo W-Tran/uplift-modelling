@@ -8,7 +8,6 @@ Compared to building a standard classifier that predicts which customers are mos
 
 **Notes/Future work**
 
-- Continue reviewing the literature in order to gain a better understanding of the uplift model training and prediction process
 - Non-clinical datasets are limited and are usually [heavily anonymized](http://ailab.criteo.com/criteo-uplift-prediction-dataset/) which makes experimenting with these models difficult. Find more datasets to experiment with
 
 <p align="center"><img src="data/figures/cumulative_lift.png" width=750></p>
