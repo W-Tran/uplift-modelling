@@ -8,6 +8,7 @@ Compared to marketing to customers who are assigned a high score by a standard "
 
 **Notes/Future work**
 
+- Compare the performance of Pylift's transformed outcome method to the Two-Model-Approach
 - Non-clinical datasets are limited and are usually [heavily anonymized](http://ailab.criteo.com/criteo-uplift-prediction-dataset/) which makes experimenting with these models difficult. Find more datasets to experiment with
 
 <p align="center"><img src="data/figures/qini_curve.png" width=750></p>
