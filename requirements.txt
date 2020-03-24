@@ -3,7 +3,7 @@ arrow==0.15.2
 attrs==19.3.0
 backcall==0.1.0
 binaryornot==0.4.4
-bleach==3.1.1
+bleach==3.1.2
 boto3==1.10.5
 botocore==1.13.5
 causallift==1.0.0
